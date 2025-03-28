@@ -1,0 +1,81 @@
+body{
+    color: rgb(59, 182, 161);
+    background-color: rgb(161, 238, 225);
+    font-family: "Monoton", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+ }
+ header{
+    border-bottom: solid 2px  (38, 173, 26);
+    text-align: center;
+    padding: 20px;
+    font-size: 60px;
+    font-family: "Delius Unicase", cursive;
+    font-weight: 400;
+    font-style: normal;
+    background-color: rgb(191, 241, 237);
+    color: rgb(59, 182, 161);
+ }   
+ 
+ 
+ .delius-unicase-bold {
+    font-family: "Delius Unicase", cursive;
+    font-weight: 700;
+    font-style: normal;
+ 
+ 
+    }
+ section {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        padding-bottom: 20px;
+       ;
+    }
+ .chamada-texto{
+    padding-top: 80px;
+    padding-bottom: 80xp;height: 200px;
+    display: flex;
+    justify-content: center;
+ }
+ .chamada-texto {
+    margin-right: 30%;
+ }
+ h1 {
+    font-size: 40px;
+ }
+ p {
+    font-size: 20px;
+ }
+ img{
+    height: 190px;
+ }
+ .categoria-videos{
+    display:flex;
+    overflow: auto;
+    gap: 10px;
+ }
+ .categoria-videos img{
+    opacity:0.7;
+    height: 200px;
+    border-radius: 16px;
+ 
+ 
+ 
+ 
+ }
+ .categoria-videos img:hover{
+    opacity: 1.0;
+    border:  1px solid rgb(0, 37, 31);
+ }
+ .categoria {
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-top: 50px; background-color: rgb(120, 230, 215);
+  border-radius: 16px;
+ }
+ .categoria h2{
+    color: rgb(47, 145, 128);
+ }
+ 
